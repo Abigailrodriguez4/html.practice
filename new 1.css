@@ -1,0 +1,10 @@
+body{
+  background-color: #F56476;
+  }
+  h1{ 
+  text-align: center;
+  color :  #8B95C9;
+  }
+  ul.square{
+	list-style-type: square;
+  }
